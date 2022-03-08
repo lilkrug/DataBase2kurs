@@ -1,0 +1,1 @@
+Create database Круглик_Base3;
